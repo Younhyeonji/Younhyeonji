@@ -1,9 +1,11 @@
 ### Hi My name is hyeon ji !!!
 
-<!--
-**Younhyeonji/Younhyeonji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-87CEFA?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/h_jiemon/)](https://www.instagram.com/h_jiemon/)
+
+</div>
 
 - 💻 Computer Software Engineering
 - 🦁 I'm LikeLion at SCH 9th member
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+- 📚 very very very tired
