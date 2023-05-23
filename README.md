@@ -1,4 +1,4 @@
-### 🥴 Hi My name is hyeon ji 🥴
+### 🥴 Youn Hyeon Ji 🥴
 
 <div align=center>
 
@@ -6,6 +6,6 @@
 
 </div>
 
-- 💻 Computer Software Engineering
-- 🦁 I'm LikeLion at SCH 9th member
-- 📚 very very very tired
+- 💻 Department of Computer Software Engineering
+- 🦁 LikeLion at SCH 9th member
+- 🦁 LikeLion at SCH 11th management
